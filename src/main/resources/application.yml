@@ -1,0 +1,10 @@
+server:
+  servlet:
+    session:
+      timeout: 30M
+  port: 8760
+  #address: 192.168.1.118
+
+spring:
+  application:
+    name: messager
